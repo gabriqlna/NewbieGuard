@@ -1,0 +1,10 @@
+name: NewbieGuard
+version: 1.0.0
+main: br\com\newbieguard\Main
+api: [5.0.0]
+author: Gabriel_YT
+description: Proteção automática temporária para novos jogadores ou ao entrar.
+permissions:
+  newbieguard.bypass:
+    description: Permite ignorar a proteção e atacar jogadores protegidos.
+    default: op

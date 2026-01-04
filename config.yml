@@ -1,0 +1,9 @@
+# Tempo de proteção em minutos
+protection-time: 5
+
+# Mensagens
+msg-protection-start: "§aVocê está protegido por {TIME} minutos! PvP e construção desativados."
+msg-protection-end: "§cSua proteção de novato acabou!"
+msg-protection-removed: "§6Você atacou um jogador! Sua proteção foi removida."
+msg-cant-build: "§cVocê não pode construir enquanto estiver protegido."
+msg-cant-pvp: "§cEste jogador está protegido!"
